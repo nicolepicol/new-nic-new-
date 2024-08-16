@@ -1,0 +1,51 @@
+.body{
+    background-color:greenyellow
+}
+
+.container{
+    display: flex;
+}
+
+h2{
+
+    font-weight: lighter;
+}
+
+.imagem {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    border-radius: 1000px;
+}
+.imagem1 {
+    margin-top: 3%;
+    height: 750;
+     width: 1650;
+     margin-left: 2%;
+     margin-right: 2%;
+}
+    .imagem1:hover{
+        content: url(_1eff50ae-58de-44ec-94c7-42bc82f32031.jpg);
+    }
+
+
+.carro{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.beleza{
+        border-radius: 1000px;
+}
+
+.button:hover{
+    background-color: blueviolet;
+
+}
+
+.porta{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    border-radius: 5px;
+}
